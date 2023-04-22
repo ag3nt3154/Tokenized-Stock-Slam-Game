@@ -1,0 +1,6 @@
+5 players
+each player pays 0.01 eth for 1000 ST
+5 stocks with 10 shares each
+10 rounds
+
+1 stock will be worth 100 ST for each share. All other shares will be worthless
