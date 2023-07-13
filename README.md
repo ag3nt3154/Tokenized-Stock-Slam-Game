@@ -1,9 +1,9 @@
 # Tokenized-Stock-Slam-Game
 In this project, we present a tokenized version of the popular board game Stock Slam, where players compete against each other by trading fictional shares. In this project, players will place their ETH into a betting pool and obtain payouts based on the outcome of the game.\
 
-The rules of the game are defined as follows:
+### The rules of the game are defined as follows:
 
-### There are 5 players.
+There are 5 players.
 At the start of the game, each player pays 1 ETH to begin the game with 1000 StockTokens (ST) and 2 shares of each stock (5 stocks in total).
 During the game, players can trade shares with each other. The trading can be done on an order book or bilaterally over-the-counter (OTC).
 At the end of the game, 1 stock will be considered “in-the-money” (ITM) and worth 100 ST for each share. All other stocks will be considered worthless. 100 ST will be transferred to each holder of ITM shares.
